@@ -2,7 +2,6 @@
 
 #### 👷🏻‍♂️ Check out what I am currently working on
 
-- [brianknight10/readme](https://github.com/brianknight10/readme) - Automatically generated and updated personal README file (today)
 - [denoland/manual](https://github.com/denoland/manual) - Deno&#39;s documentation (1 month ago)
 
 #### 🌱 What I am currently learning
