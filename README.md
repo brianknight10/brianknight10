@@ -22,3 +22,7 @@ Say hello, I don't bite!
 
 - Twitter: https://twitter.com/brianknightx
 - Email: brian@brianknight.me
+
+#### GitHub stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brianknight10&theme=github)
