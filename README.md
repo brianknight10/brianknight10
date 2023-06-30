@@ -6,7 +6,7 @@
 - [denoland/manual](https://github.com/denoland/manual) - Deno&#39;s documentation (1 month ago)
 
 #### 🌱 What I am currently learning
-- [Go](https://go.dev/)
+- [Rust](https://www.rust-lang.org/)
 - [Google Earth Engine](https://earthengine.google.com/)
 
 #### 🔭 Latest releases I've contributed to
@@ -20,7 +20,7 @@ Say hello, I don't bite!
 
 #### 📫 How to reach me
 
-- Twitter: https://twitter.com/brianknightx
+- Mastodon Social: <a rel="me" href="https://hachyderm.io/@brianknight">https://hachyderm.io/@brianknight</a>
 - Email: brian@brianknight.me
 
 #### GitHub stats
