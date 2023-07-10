@@ -3,7 +3,7 @@
 #### 👷🏻‍♂️ Check out what I am currently working on
 
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. (2 weeks ago)
-- [denoland/manual](https://github.com/denoland/manual) - Deno&#39;s documentation (1 month ago)
+- [denoland/manual](https://github.com/denoland/manual) - Deno&#39;s documentation (2 months ago)
 
 #### 🌱 What I am currently learning
 - [Rust](https://www.rust-lang.org/)
@@ -11,7 +11,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.115.2](https://github.com/gohugoio/hugo/releases/tag/v0.115.2), 1 day ago) - The world’s fastest framework for building websites.
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.115.2](https://github.com/gohugoio/hugo/releases/tag/v0.115.2), 2 days ago) - The world’s fastest framework for building websites.
 - [denoland/manual](https://github.com/denoland/manual) ([v1.17.2](https://github.com/denoland/manual/releases/tag/v1.17.2), 2 years ago) - Deno&#39;s documentation
 
 #### 💬 Feedback
