@@ -11,7 +11,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.115.3](https://github.com/gohugoio/hugo/releases/tag/v0.115.3), 1 day ago) - The world’s fastest framework for building websites.
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.115.3](https://github.com/gohugoio/hugo/releases/tag/v0.115.3), 2 days ago) - The world’s fastest framework for building websites.
 - [denoland/manual](https://github.com/denoland/manual) ([v1.17.2](https://github.com/denoland/manual/releases/tag/v1.17.2), 2 years ago) - Deno&#39;s documentation
 
 #### 💬 Feedback
