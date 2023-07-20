@@ -2,7 +2,7 @@
 
 #### 👷🏻‍♂️ Check out what I am currently working on
 
-- [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (1 day ago)
+- [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (2 days ago)
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. (4 weeks ago)
 - [denoland/manual](https://github.com/denoland/manual) - Deno&#39;s documentation (2 months ago)
 
@@ -12,8 +12,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [denoland/fresh](https://github.com/denoland/fresh) ([1.3.0](https://github.com/denoland/fresh/releases/tag/1.3.0), 1 day ago) - The next-gen web framework.
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.115.3](https://github.com/gohugoio/hugo/releases/tag/v0.115.3), 6 days ago) - The world’s fastest framework for building websites.
+- [denoland/fresh](https://github.com/denoland/fresh) ([1.3.0](https://github.com/denoland/fresh/releases/tag/1.3.0), 2 days ago) - The next-gen web framework.
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.115.3](https://github.com/gohugoio/hugo/releases/tag/v0.115.3), 1 week ago) - The world’s fastest framework for building websites.
 - [denoland/manual](https://github.com/denoland/manual) ([v1.17.2](https://github.com/denoland/manual/releases/tag/v1.17.2), 2 years ago) - Deno&#39;s documentation
 
 #### 💬 Feedback
