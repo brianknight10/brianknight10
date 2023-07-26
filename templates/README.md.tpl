@@ -6,6 +6,7 @@
 {{- end}}
 
 #### 🌱 What I am currently learning
+- [Deno](https://deno.land/)
 - [Rust](https://www.rust-lang.org/)
 - [Google Earth Engine](https://earthengine.google.com/)
 
