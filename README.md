@@ -7,6 +7,7 @@
 - [denoland/manual](https://github.com/denoland/manual) - Deno&#39;s documentation (2 months ago)
 
 #### 🌱 What I am currently learning
+- [Deno](https://deno.land/)
 - [Rust](https://www.rust-lang.org/)
 - [Google Earth Engine](https://earthengine.google.com/)
 
