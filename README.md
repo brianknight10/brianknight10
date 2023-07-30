@@ -2,7 +2,7 @@
 
 #### 👷🏻‍♂️ Check out what I am currently working on
 
-- [denoland/deno_std](https://github.com/denoland/deno_std) - Deno standard library (2 days ago)
+- [denoland/deno_std](https://github.com/denoland/deno_std) - Deno standard library (today)
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (1 week ago)
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. (1 month ago)
 - [denoland/manual](https://github.com/denoland/manual) - Deno&#39;s documentation (2 months ago)
