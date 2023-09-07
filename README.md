@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [denoland/fresh](https://github.com/denoland/fresh) ([1.4.3](https://github.com/denoland/fresh/releases/tag/1.4.3), today) - The next-gen web framework.
-- [denoland/deno_std](https://github.com/denoland/deno_std) ([0.201.0](https://github.com/denoland/deno_std/releases/tag/0.201.0), 5 days ago) - Deno standard library
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.118.2](https://github.com/gohugoio/hugo/releases/tag/v0.118.2), 6 days ago) - The world’s fastest framework for building websites.
+- [denoland/fresh](https://github.com/denoland/fresh) ([1.4.3](https://github.com/denoland/fresh/releases/tag/1.4.3), 1 day ago) - The next-gen web framework.
+- [denoland/deno_std](https://github.com/denoland/deno_std) ([0.201.0](https://github.com/denoland/deno_std/releases/tag/0.201.0), 6 days ago) - Deno standard library
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.118.2](https://github.com/gohugoio/hugo/releases/tag/v0.118.2), 1 week ago) - The world’s fastest framework for building websites.
 - [denoland/manual](https://github.com/denoland/manual) ([v1.17.2](https://github.com/denoland/manual/releases/tag/v1.17.2), 2 years ago) - Deno&#39;s documentation
 
 #### 💬 Feedback
