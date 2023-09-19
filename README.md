@@ -4,7 +4,7 @@
 
 - [denoland/deno_std](https://github.com/denoland/deno_std) - Deno standard library (1 month ago)
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (2 months ago)
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. (2 months ago)
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. (3 months ago)
 - [denoland/manual](https://github.com/denoland/manual) - Deprecated - find these resources on docs.deno.com instead (4 months ago)
 
 #### 🌱 What I am currently learning
