@@ -16,7 +16,7 @@
 
 - [denoland/fresh](https://github.com/denoland/fresh) ([1.5.2](https://github.com/denoland/fresh/releases/tag/1.5.2), 1 week ago) - The next-gen web framework.
 - [denoland/deno_std](https://github.com/denoland/deno_std) ([0.204.0](https://github.com/denoland/deno_std/releases/tag/0.204.0), 1 week ago) - Deno standard library
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.119.0](https://github.com/gohugoio/hugo/releases/tag/v0.119.0), 4 weeks ago) - The world’s fastest framework for building websites.
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.119.0](https://github.com/gohugoio/hugo/releases/tag/v0.119.0), 1 month ago) - The world’s fastest framework for building websites.
 - [denoland/manual](https://github.com/denoland/manual) ([v1.17.2](https://github.com/denoland/manual/releases/tag/v1.17.2), 2 years ago) - Deprecated - find these resources on docs.deno.com instead
 
 #### 💬 Feedback
