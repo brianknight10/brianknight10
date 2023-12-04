@@ -2,7 +2,7 @@
 
 #### 👷🏻‍♂️ Check out what I am currently working on
 
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one (4 days ago)
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one (5 days ago)
 - [denoland/deno_std](https://github.com/denoland/deno_std) - Deno standard library (4 months ago)
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (4 months ago)
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. (5 months ago)
@@ -15,8 +15,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [oven-sh/bun](https://github.com/oven-sh/bun) ([bun-v1.0.15](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.15), 1 day ago) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-- [denoland/fresh](https://github.com/denoland/fresh) ([1.6.0](https://github.com/denoland/fresh/releases/tag/1.6.0), 2 days ago) - The next-gen web framework.
+- [oven-sh/bun](https://github.com/oven-sh/bun) ([bun-v1.0.15](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.15), 2 days ago) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+- [denoland/fresh](https://github.com/denoland/fresh) ([1.6.0](https://github.com/denoland/fresh/releases/tag/1.6.0), 3 days ago) - The next-gen web framework.
 - [denoland/deno_std](https://github.com/denoland/deno_std) ([0.208.0](https://github.com/denoland/deno_std/releases/tag/0.208.0), 1 week ago) - Deno standard library
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.120.4](https://github.com/gohugoio/hugo/releases/tag/v0.120.4), 3 weeks ago) - The world’s fastest framework for building websites.
 - [denoland/manual](https://github.com/denoland/manual) ([v1.17.2](https://github.com/denoland/manual/releases/tag/v1.17.2), 2 years ago) - Deprecated - find these resources on docs.deno.com instead
