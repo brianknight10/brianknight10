@@ -6,7 +6,7 @@
 - [denoland/deno_std](https://github.com/denoland/deno_std) - Deno standard library (7 months ago)
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (7 months ago)
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. (8 months ago)
-- [denoland/manual](https://github.com/denoland/manual) - Deprecated - find these resources on docs.deno.com instead (9 months ago)
+- [denoland/manual](https://github.com/denoland/manual) - Deprecated - find these resources on docs.deno.com instead (10 months ago)
 
 #### 🌱 What I am currently learning
 - [Deno](https://deno.land/)
@@ -15,10 +15,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [oven-sh/bun](https://github.com/oven-sh/bun) ([bun-v1.0.30](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.30), 1 day ago) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.123.7](https://github.com/gohugoio/hugo/releases/tag/v0.123.7), 4 days ago) - The world’s fastest framework for building websites.
-- [denoland/deno_std](https://github.com/denoland/deno_std) ([0.218.2](https://github.com/denoland/deno_std/releases/tag/0.218.2), 4 days ago) - Deno standard library
-- [denoland/fresh](https://github.com/denoland/fresh) ([1.6.5](https://github.com/denoland/fresh/releases/tag/1.6.5), 2 weeks ago) - The next-gen web framework.
+- [oven-sh/bun](https://github.com/oven-sh/bun) ([bun-v1.0.30](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.30), 2 days ago) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.123.7](https://github.com/gohugoio/hugo/releases/tag/v0.123.7), 5 days ago) - The world’s fastest framework for building websites.
+- [denoland/deno_std](https://github.com/denoland/deno_std) ([0.218.2](https://github.com/denoland/deno_std/releases/tag/0.218.2), 5 days ago) - Deno standard library
+- [denoland/fresh](https://github.com/denoland/fresh) ([1.6.5](https://github.com/denoland/fresh/releases/tag/1.6.5), 3 weeks ago) - The next-gen web framework.
 - [denoland/manual](https://github.com/denoland/manual) ([v1.17.2](https://github.com/denoland/manual/releases/tag/v1.17.2), 2 years ago) - Deprecated - find these resources on docs.deno.com instead
 
 #### 💬 Feedback
