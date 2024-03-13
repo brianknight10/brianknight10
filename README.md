@@ -15,10 +15,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [denoland/deno_std](https://github.com/denoland/deno_std) ([0.219.1](https://github.com/denoland/deno_std/releases/tag/0.219.1), 4 days ago) - Deno standard library
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.123.8](https://github.com/gohugoio/hugo/releases/tag/v0.123.8), 5 days ago) - The world’s fastest framework for building websites.
+- [denoland/deno_std](https://github.com/denoland/deno_std) ([0.219.1](https://github.com/denoland/deno_std/releases/tag/0.219.1), 5 days ago) - Deno standard library
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.123.8](https://github.com/gohugoio/hugo/releases/tag/v0.123.8), 6 days ago) - The world’s fastest framework for building websites.
 - [oven-sh/bun](https://github.com/oven-sh/bun) ([bun-v1.0.30](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.30), 1 week ago) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-- [denoland/fresh](https://github.com/denoland/fresh) ([1.6.5](https://github.com/denoland/fresh/releases/tag/1.6.5), 3 weeks ago) - The next-gen web framework.
+- [denoland/fresh](https://github.com/denoland/fresh) ([1.6.5](https://github.com/denoland/fresh/releases/tag/1.6.5), 4 weeks ago) - The next-gen web framework.
 - [denoland/manual](https://github.com/denoland/manual) ([v1.17.2](https://github.com/denoland/manual/releases/tag/v1.17.2), 2 years ago) - Deprecated - find these resources on docs.deno.com instead
 
 #### 💬 Feedback
