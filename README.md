@@ -6,7 +6,7 @@
 - [denoland/deno_std](https://github.com/denoland/deno_std) - The Deno Standard Library (8 months ago)
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (8 months ago)
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. (9 months ago)
-- [denoland/manual](https://github.com/denoland/manual) - Deprecated - find these resources on docs.deno.com instead (10 months ago)
+- [denoland/manual](https://github.com/denoland/manual) - Deprecated - find these resources on docs.deno.com instead (11 months ago)
 
 #### 🌱 What I am currently learning
 - [Deno](https://deno.land/)
@@ -15,9 +15,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [oven-sh/bun](https://github.com/oven-sh/bun) ([bun-v1.1.1](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.1), today) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+- [oven-sh/bun](https://github.com/oven-sh/bun) ([bun-v1.1.1](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.1), 1 day ago) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [denoland/deno_std](https://github.com/denoland/deno_std) ([0.221.0](https://github.com/denoland/deno_std/releases/tag/0.221.0), 1 week ago) - The Deno Standard Library
-- [denoland/fresh](https://github.com/denoland/fresh) ([1.6.8](https://github.com/denoland/fresh/releases/tag/1.6.8), 1 week ago) - The next-gen web framework.
+- [denoland/fresh](https://github.com/denoland/fresh) ([1.6.8](https://github.com/denoland/fresh/releases/tag/1.6.8), 2 weeks ago) - The next-gen web framework.
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.124.1](https://github.com/gohugoio/hugo/releases/tag/v0.124.1), 2 weeks ago) - The world’s fastest framework for building websites.
 - [denoland/manual](https://github.com/denoland/manual) ([v1.17.2](https://github.com/denoland/manual/releases/tag/v1.17.2), 2 years ago) - Deprecated - find these resources on docs.deno.com instead
 
