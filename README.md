@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.125.2](https://github.com/gohugoio/hugo/releases/tag/v0.125.2), 2 days ago) - The world’s fastest framework for building websites.
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.125.3](https://github.com/gohugoio/hugo/releases/tag/v0.125.3), today) - The world’s fastest framework for building websites.
 - [oven-sh/bun](https://github.com/oven-sh/bun) ([bun-v1.1.4](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.4), 6 days ago) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [denoland/deno_std](https://github.com/denoland/deno_std) ([0.223.0](https://github.com/denoland/deno_std/releases/tag/0.223.0), 6 days ago) - The Deno Standard Library
 - [denoland/fresh](https://github.com/denoland/fresh) ([1.6.8](https://github.com/denoland/fresh/releases/tag/1.6.8), 1 month ago) - The next-gen web framework.
