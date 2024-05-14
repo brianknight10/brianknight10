@@ -2,7 +2,7 @@
 
 #### 👷🏻‍♂️ Check out what I am currently working on
 
-- [brianknight10/data-visualization](https://github.com/brianknight10/data-visualization) - My data visualization playground (1 week ago)
+- [brianknight10/data-visualization](https://github.com/brianknight10/data-visualization) - My data visualization playground (today)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one (5 months ago)
 - [denoland/deno_std](https://github.com/denoland/deno_std) - The Deno Standard Library (9 months ago)
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (10 months ago)
