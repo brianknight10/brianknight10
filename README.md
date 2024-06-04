@@ -2,7 +2,7 @@
 
 #### 👷🏻‍♂️ Check out what I am currently working on
 
-- [brianknight10/data-visualization](https://github.com/brianknight10/data-visualization) - My data visualization playground (2 weeks ago)
+- [brianknight10/data-visualization](https://github.com/brianknight10/data-visualization) - My data visualization playground (3 weeks ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one (6 months ago)
 - [denoland/deno_std](https://github.com/denoland/deno_std) - The Deno Standard Library (10 months ago)
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (10 months ago)
@@ -15,9 +15,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [denoland/deno_std](https://github.com/denoland/deno_std) ([release-2024.06.03](https://github.com/denoland/deno_std/releases/tag/release-2024.06.03), today) - The Deno Standard Library
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.126.3](https://github.com/gohugoio/hugo/releases/tag/v0.126.3), 1 day ago) - The world’s fastest framework for building websites.
-- [oven-sh/bun](https://github.com/oven-sh/bun) ([bun-v1.1.12](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.12), 2 days ago) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+- [denoland/deno_std](https://github.com/denoland/deno_std) ([release-2024.06.03](https://github.com/denoland/deno_std/releases/tag/release-2024.06.03), 1 day ago) - The Deno Standard Library
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.126.3](https://github.com/gohugoio/hugo/releases/tag/v0.126.3), 2 days ago) - The world’s fastest framework for building websites.
+- [oven-sh/bun](https://github.com/oven-sh/bun) ([bun-v1.1.12](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.12), 3 days ago) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [denoland/fresh](https://github.com/denoland/fresh) ([1.6.8](https://github.com/denoland/fresh/releases/tag/1.6.8), 2 months ago) - The next-gen web framework.
 
 #### 💬 Feedback
