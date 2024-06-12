@@ -5,7 +5,7 @@
 - [brianknight10/data-visualization](https://github.com/brianknight10/data-visualization) - My data visualization playground (4 weeks ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one (6 months ago)
 - [denoland/deno_std](https://github.com/denoland/deno_std) - The Deno Standard Library (10 months ago)
-- [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (10 months ago)
+- [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (11 months ago)
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. (11 months ago)
 
 #### 🌱 What I am currently learning
@@ -15,9 +15,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [denoland/deno_std](https://github.com/denoland/deno_std) ([release-2024.06.06](https://github.com/denoland/deno_std/releases/tag/release-2024.06.06), 5 days ago) - The Deno Standard Library
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.127.0](https://github.com/gohugoio/hugo/releases/tag/v0.127.0), 6 days ago) - The world’s fastest framework for building websites.
-- [oven-sh/bun](https://github.com/oven-sh/bun) ([bun-v1.1.12](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.12), 1 week ago) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+- [oven-sh/bun](https://github.com/oven-sh/bun) ([bun-v1.1.13](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.13), today) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+- [denoland/deno_std](https://github.com/denoland/deno_std) ([release-2024.06.06](https://github.com/denoland/deno_std/releases/tag/release-2024.06.06), 6 days ago) - The Deno Standard Library
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.127.0](https://github.com/gohugoio/hugo/releases/tag/v0.127.0), 1 week ago) - The world’s fastest framework for building websites.
 - [denoland/fresh](https://github.com/denoland/fresh) ([1.6.8](https://github.com/denoland/fresh/releases/tag/1.6.8), 2 months ago) - The next-gen web framework.
 
 #### 💬 Feedback
