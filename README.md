@@ -6,7 +6,6 @@
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one (6 months ago)
 - [denoland/deno_std](https://github.com/denoland/deno_std) - The Deno Standard Library (11 months ago)
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (11 months ago)
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. (1 year ago)
 
 #### 🌱 What I am currently learning
 - [Deno](https://deno.land/)
