@@ -16,7 +16,6 @@
 
 - [oven-sh/bun](https://github.com/oven-sh/bun) ([bun-v1.1.20](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.20), 6 days ago) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [denoland/std](https://github.com/denoland/std) ([release-2024.07.12](https://github.com/denoland/std/releases/tag/release-2024.07.12), 1 week ago) - The Deno Standard Library
-- [denoland/fresh](https://github.com/denoland/fresh) ([1.6.8](https://github.com/denoland/fresh/releases/tag/1.6.8), 3 months ago) - The next-gen web framework.
 
 #### 💬 Feedback
 
