@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [denoland/std](https://github.com/denoland/std) ([release-2024.07.19](https://github.com/denoland/std/releases/tag/release-2024.07.19), 2 days ago) - The Deno Standard Library
+- [denoland/std](https://github.com/denoland/std) ([release-2024.07.19](https://github.com/denoland/std/releases/tag/release-2024.07.19), 3 days ago) - The Deno Standard Library
 - [oven-sh/bun](https://github.com/oven-sh/bun) ([bun-v1.1.20](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.20), 1 week ago) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 #### 💬 Feedback
