@@ -3,7 +3,7 @@
 #### 👷🏻‍♂️ Check out what I am currently working on
 
 - [brianknight10/data-visualization](https://github.com/brianknight10/data-visualization) - My data visualization playground (2 months ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one (7 months ago)
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one (8 months ago)
 - [denoland/std](https://github.com/denoland/std) - The Deno Standard Library (1 year ago)
 
 #### 🌱 What I am currently learning
@@ -13,7 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [denoland/std](https://github.com/denoland/std) ([release-2024.07.19](https://github.com/denoland/std/releases/tag/release-2024.07.19), 6 days ago) - The Deno Standard Library
+- [denoland/std](https://github.com/denoland/std) ([release-2024.07.19](https://github.com/denoland/std/releases/tag/release-2024.07.19), 1 week ago) - The Deno Standard Library
 - [oven-sh/bun](https://github.com/oven-sh/bun) ([bun-v1.1.20](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.20), 1 week ago) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 #### 💬 Feedback
