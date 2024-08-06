@@ -4,7 +4,6 @@
 
 - [brianknight10/data-visualization](https://github.com/brianknight10/data-visualization) - My data visualization playground (2 months ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one (8 months ago)
-- [denoland/std](https://github.com/denoland/std) - The Deno Standard Library (1 year ago)
 
 #### 🌱 What I am currently learning
 - [Deno](https://deno.land/)
