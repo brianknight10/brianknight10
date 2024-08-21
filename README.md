@@ -12,7 +12,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [oven-sh/bun](https://github.com/oven-sh/bun) ([bun-v1.1.24](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.24), 1 week ago) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+- [oven-sh/bun](https://github.com/oven-sh/bun) ([bun-v1.1.25](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.25), today) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 #### 💬 Feedback
 
