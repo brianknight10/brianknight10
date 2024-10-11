@@ -2,7 +2,7 @@
 
 #### 👷🏻‍♂️ Check out what I am currently working on
 
-- [brianknight10/data-visualization](https://github.com/brianknight10/data-visualization) - My data visualization playground (4 months ago)
+- [brianknight10/data-visualization](https://github.com/brianknight10/data-visualization) - My data visualization playground (5 months ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one (10 months ago)
 
 #### 🌱 What I am currently learning
@@ -12,7 +12,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [oven-sh/bun](https://github.com/oven-sh/bun) ([bun-v1.1.30](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.30), 2 days ago) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+- [oven-sh/bun](https://github.com/oven-sh/bun) ([bun-v1.1.30](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.30), 3 days ago) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 #### 💬 Feedback
 
