@@ -2,6 +2,7 @@
 
 #### 👷🏻‍♂️ Check out what I am currently working on
 
+- [brianknight10/comix](https://github.com/brianknight10/comix) - Build and format STAR and DP GeoJSON files from FAA data (today)
 - [brianknight10/data-visualization](https://github.com/brianknight10/data-visualization) - My data visualization playground (5 months ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one (10 months ago)
 
@@ -12,6 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [brianknight10/comix](https://github.com/brianknight10/comix) ([v0.5.0](https://github.com/brianknight10/comix/releases/tag/v0.5.0), today) - Build and format STAR and DP GeoJSON files from FAA data
 - [oven-sh/bun](https://github.com/oven-sh/bun) ([bun-v1.1.31](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.31), 3 days ago) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 #### 💬 Feedback
