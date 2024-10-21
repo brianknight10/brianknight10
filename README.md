@@ -13,8 +13,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [oven-sh/bun](https://github.com/oven-sh/bun) ([bun-v1.1.32](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.32), today) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [brianknight10/comix](https://github.com/brianknight10/comix) ([v0.5.0](https://github.com/brianknight10/comix/releases/tag/v0.5.0), today) - Build and format STAR and DP GeoJSON files from FAA data
-- [oven-sh/bun](https://github.com/oven-sh/bun) ([bun-v1.1.31](https://github.com/oven-sh/bun/releases/tag/bun-v1.1.31), 3 days ago) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 #### 💬 Feedback
 
