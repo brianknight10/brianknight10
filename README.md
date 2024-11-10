@@ -3,7 +3,7 @@
 #### 👷🏻‍♂️ Check out what I am currently working on
 
 - [brianknight10/comix](https://github.com/brianknight10/comix) - Build and format STAR and DP GeoJSON files from FAA data (2 weeks ago)
-- [brianknight10/data-visualization](https://github.com/brianknight10/data-visualization) - My data visualization playground (5 months ago)
+- [brianknight10/data-visualization](https://github.com/brianknight10/data-visualization) - My data visualization playground (6 months ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one (11 months ago)
 
 #### 🌱 What I am currently learning
