@@ -4,7 +4,6 @@
 
 - [brianknight10/comix](https://github.com/brianknight10/comix) - Build and format STAR and DP GeoJSON files from FAA data (1 month ago)
 - [brianknight10/data-visualization](https://github.com/brianknight10/data-visualization) - My data visualization playground (6 months ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one (1 year ago)
 
 #### 🌱 What I am currently learning
 - [Deno](https://deno.land/)
