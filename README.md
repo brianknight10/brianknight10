@@ -3,7 +3,7 @@
 #### 👷🏻‍♂️ Check out what I am currently working on
 
 - [brianknight10/comix](https://github.com/brianknight10/comix) - Build and format STAR and DP GeoJSON files from FAA data (1 month ago)
-- [brianknight10/data-visualization](https://github.com/brianknight10/data-visualization) - My data visualization playground (6 months ago)
+- [brianknight10/data-visualization](https://github.com/brianknight10/data-visualization) - My data visualization playground (7 months ago)
 
 #### 🌱 What I am currently learning
 - [Deno](https://deno.land/)
