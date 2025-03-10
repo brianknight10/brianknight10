@@ -4,7 +4,7 @@
 
 - [vatsimnetwork/vatspy-data-project](https://github.com/vatsimnetwork/vatspy-data-project) - A home for VATSPY Data updates. (2 months ago)
 - [brianknight10/comix](https://github.com/brianknight10/comix) - Build and format STAR and DP GeoJSON files from FAA data (4 months ago)
-- [brianknight10/data-visualization](https://github.com/brianknight10/data-visualization) - My data visualization playground (9 months ago)
+- [brianknight10/data-visualization](https://github.com/brianknight10/data-visualization) - My data visualization playground (10 months ago)
 
 #### 🌱 What I am currently learning
 - [Deno](https://deno.land/)
