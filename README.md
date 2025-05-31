@@ -13,7 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [vatsimnetwork/vatspy-data-project](https://github.com/vatsimnetwork/vatspy-data-project) ([v2505.1](https://github.com/vatsimnetwork/vatspy-data-project/releases/tag/v2505.1), 1 week ago) - A home for VATSPY Data updates.
+- [vatsimnetwork/vatspy-data-project](https://github.com/vatsimnetwork/vatspy-data-project) ([v2505.1](https://github.com/vatsimnetwork/vatspy-data-project/releases/tag/v2505.1), 2 weeks ago) - A home for VATSPY Data updates.
 - [brianknight10/comix](https://github.com/brianknight10/comix) ([v0.5.0](https://github.com/brianknight10/comix/releases/tag/v0.5.0), 7 months ago) - Build and format STAR and DP GeoJSON files from FAA data
 - [denoland/fresh](https://github.com/denoland/fresh) ([1.7.3](https://github.com/denoland/fresh/releases/tag/1.7.3), 7 months ago) - The next-gen web framework.
 
