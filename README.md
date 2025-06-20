@@ -3,7 +3,7 @@
 #### 👷🏻‍♂️ Check out what I am currently working on
 
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (1 month ago)
-- [vatsimnetwork/vatspy-data-project](https://github.com/vatsimnetwork/vatspy-data-project) - A home for VATSPY Data updates. (5 months ago)
+- [vatsimnetwork/vatspy-data-project](https://github.com/vatsimnetwork/vatspy-data-project) - A home for VATSPY Data updates. (6 months ago)
 - [brianknight10/comix](https://github.com/brianknight10/comix) - Build and format STAR and DP GeoJSON files from FAA data (8 months ago)
 
 #### 🌱 What I am currently learning
