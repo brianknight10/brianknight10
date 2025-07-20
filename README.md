@@ -4,7 +4,7 @@
 
 - [brianknight10/jetsa](https://github.com/brianknight10/jetsa) - Convert FAA MVA and MIA charts to GeoJSON (3 weeks ago)
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (2 months ago)
-- [vatsimnetwork/vatspy-data-project](https://github.com/vatsimnetwork/vatspy-data-project) - A home for VATSPY Data updates. (6 months ago)
+- [vatsimnetwork/vatspy-data-project](https://github.com/vatsimnetwork/vatspy-data-project) - A home for VATSPY Data updates. (7 months ago)
 - [brianknight10/comix](https://github.com/brianknight10/comix) - Build and format STAR and DP GeoJSON files from FAA data (9 months ago)
 
 #### 🌱 What I am currently learning
