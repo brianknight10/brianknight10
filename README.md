@@ -3,9 +3,9 @@
 #### 👷🏻‍♂️ Check out what I am currently working on
 
 - [brianknight10/jetsa](https://github.com/brianknight10/jetsa) - Convert FAA MVA and MIA charts to GeoJSON (1 month ago)
-- [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (2 months ago)
+- [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (3 months ago)
 - [vatsimnetwork/vatspy-data-project](https://github.com/vatsimnetwork/vatspy-data-project) - A home for VATSPY Data updates. (7 months ago)
-- [brianknight10/comix](https://github.com/brianknight10/comix) - Build and format STAR and DP GeoJSON files from FAA data (9 months ago)
+- [brianknight10/comix](https://github.com/brianknight10/comix) - Build and format STAR and DP GeoJSON files from FAA data (10 months ago)
 
 #### 🌱 What I am currently learning
 - [Deno](https://deno.land/)
@@ -16,7 +16,7 @@
 
 - [vatsimnetwork/vatspy-data-project](https://github.com/vatsimnetwork/vatspy-data-project) ([v2508.1](https://github.com/vatsimnetwork/vatspy-data-project/releases/tag/v2508.1), 1 week ago) - A home for VATSPY Data updates.
 - [brianknight10/jetsa](https://github.com/brianknight10/jetsa) ([v1.0.0](https://github.com/brianknight10/jetsa/releases/tag/v1.0.0), 1 month ago) - Convert FAA MVA and MIA charts to GeoJSON
-- [brianknight10/comix](https://github.com/brianknight10/comix) ([v0.5.0](https://github.com/brianknight10/comix/releases/tag/v0.5.0), 9 months ago) - Build and format STAR and DP GeoJSON files from FAA data
+- [brianknight10/comix](https://github.com/brianknight10/comix) ([v0.5.0](https://github.com/brianknight10/comix/releases/tag/v0.5.0), 10 months ago) - Build and format STAR and DP GeoJSON files from FAA data
 - [denoland/fresh](https://github.com/denoland/fresh) ([1.7.3](https://github.com/denoland/fresh/releases/tag/1.7.3), 10 months ago) - The next-gen web framework.
 
 #### 💬 Feedback
