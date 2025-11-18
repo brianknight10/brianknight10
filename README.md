@@ -13,8 +13,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [denoland/fresh](https://github.com/denoland/fresh) ([2.2.0](https://github.com/denoland/fresh/releases/tag/2.2.0), today) - The next-gen web framework.
 - [vatsimnetwork/vatspy-data-project](https://github.com/vatsimnetwork/vatspy-data-project) ([v2511.1](https://github.com/vatsimnetwork/vatspy-data-project/releases/tag/v2511.1), 2 weeks ago) - A home for VATSPY Data updates.
-- [denoland/fresh](https://github.com/denoland/fresh) ([2.1.4](https://github.com/denoland/fresh/releases/tag/2.1.4), 2 weeks ago) - The next-gen web framework.
 - [brianknight10/jetsa](https://github.com/brianknight10/jetsa) ([v1.0.0](https://github.com/brianknight10/jetsa/releases/tag/v1.0.0), 4 months ago) - Convert FAA MVA and MIA charts to GeoJSON
 
 #### 💬 Feedback
