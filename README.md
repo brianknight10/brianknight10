@@ -2,7 +2,7 @@
 
 #### 👷🏻‍♂️ Check out what I am currently working on
 
-- [brianknight10/jetsa](https://github.com/brianknight10/jetsa) - Convert FAA MVA and MIA charts to GeoJSON (5 months ago)
+- [brianknight10/jetsa](https://github.com/brianknight10/jetsa) - Convert FAA MVA and MIA charts to GeoJSON (6 months ago)
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (7 months ago)
 - [vatsimnetwork/vatspy-data-project](https://github.com/vatsimnetwork/vatspy-data-project) - A home for VATSPY Data updates. (1 year ago)
 
